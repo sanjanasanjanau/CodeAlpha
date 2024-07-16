@@ -1,0 +1,2 @@
+#Overview
+In the rapidly evolving field of healthcare, early and accurate disease prediction is critical for effective treatment and management. Leveraging the power of machine learning (ML), this project aims to develop a robust and reliable system for predicting diseases from medical datasets. By applying advanced ML algorithms to large sets of medical data, this project seeks to improve diagnostic accuracy, reduce healthcare costs, and ultimately enhance patient outcomes.
